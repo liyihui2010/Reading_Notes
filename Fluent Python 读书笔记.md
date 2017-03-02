@@ -840,8 +840,3 @@ def record_factory(cls_name, field_names):
 * `object` is an instance of `type`, and `type` is a subclass of `object`.
 * a metaclass inherits from `type` the power to construct classes.
 
-
-
-
-
-#自我提高/读书笔记
